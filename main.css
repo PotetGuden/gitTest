@@ -1,3 +1,63 @@
 body {
+    margin: 0;
+}
+
+header {
+    background:rgb(0, 0, 0);
+    color: white;
+    padding: 15px 15px 0px 15px;
+}
+
+header h1{
+    margin:0px;
+    display: inline;
+}
+nav ul{
+    margin:0px;
+    display: inline;
+    padding: 10px;
+}
+
+nav ul li{
+    background: rgb(33, 200, 206);
+    color: white;
+    display: inline-block;
+    border-radius: 5px;
+    list-style-type: none;
+    padding:7px 14px;
+    
+}
+
+nav ul li a{
+    color: white;
+}
+
+.row {
+    clear: both;
+}
+
+.form-control-form-control-lg {
+    background: rgb(219, 224, 226);
+    border-radius: 5px;
+    padding:10px .5%;
+    width: 97%;
+    
+}
+
+.input-group {
+    background: rgb(50, 179, 230);
+    border-radius: 5px;
+    padding:10px .5%;
+    float: left;
+    margin: .5%;
+    width: 31%;
+    
+}
+
+footer {
+    clear:both;
+}
+
+.input-group {
     
 }
