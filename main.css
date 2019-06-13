@@ -5,7 +5,8 @@ body {
 header {
     background:rgb(0, 0, 0);
     color: white;
-    padding: 15px 15px 0px 15px;
+    padding: 15px 15px 5px 15px;
+    
 }
 
 header h1{
@@ -30,6 +31,7 @@ nav ul li{
 
 nav ul li a{
     color: white;
+    
 }
 
 .row {
@@ -37,7 +39,7 @@ nav ul li a{
 }
 
 .form-control-form-control-lg {
-    background: rgb(219, 224, 226);
+    background: rgb(194, 207, 212);
     border-radius: 5px;
     padding:10px .5%;
     width: 97%;
@@ -54,10 +56,8 @@ nav ul li a{
     
 }
 
-footer {
-    clear:both;
-}
-
-.input-group {
-    
+.test {
+    background: rgb(236, 236, 203);
+    border:1px solid black;
+    margin:10px;    
 }
