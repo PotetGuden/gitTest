@@ -61,3 +61,25 @@ nav ul li a{
     border:1px solid black;
     margin:10px;    
 }
+
+.tekst {
+    margin: 15px;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+
+
+.bildetekst {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+}
+
+.typeracer {
+    position: relative;
+    text-align: center;
+    color: white;
+}
